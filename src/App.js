@@ -13,7 +13,7 @@ class App extends Component {
   }
   render() {
     return (
-      <h1 className="App-title">Hello world!</h1>
+      <h1>Hello world!</h1>
     );
   }
 }
